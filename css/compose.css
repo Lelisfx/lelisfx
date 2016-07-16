@@ -1,0 +1,11 @@
+@charset "utf-8";
+/* CSS Document */
+
+.laybg {
+	height: 400px;
+	width: 900px;
+}
+.lay1 {
+	margin-top: 50px;
+	margin-left: 200px;
+}
